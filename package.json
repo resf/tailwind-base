@@ -1,6 +1,6 @@
 {
   "name": "@resf/tailwind-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The RESF's base Tailwind CSS configuration, to be used by all its project sites using Tailwind.",
   "main": "tailwind.config.js",
   "scripts": {
