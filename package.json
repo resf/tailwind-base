@@ -1,0 +1,32 @@
+{
+  "name": "@resf/tailwind-base",
+  "version": "1.0.0",
+  "description": "The RESF's base Tailwind CSS configuration, to be used by all its project sites using Tailwind.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resf/tailwind-base.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "base",
+    "config",
+    "resf",
+    "theme"
+  ],
+  "author": "The RESF Web Team <web@resf.org> (https://resf.org)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/resf/tailwind-base/issues"
+  },
+  "homepage": "https://github.com/resf/tailwind-base#readme",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/typography": "^0.4.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
